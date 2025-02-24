@@ -12,6 +12,19 @@ Desde el departamento gráfico se solicita elaborar una propuesta para un videoj
         Imágenes utilizadas: tipo de licencia, formato original, fuente, formato de salida para web e impresión, software de edición.
         Audios y vídeos: formato original, formatos de salida, códec utilizado y licencia.
 
+
+Temática del videojuego:
+Nombre del juego:Lara's Candyland Quest
+Un juego plataforma con un estilo pasteloso, dulce,tierno e  inocente
+
+historia:
+El juego consistirá en Lara (protagonista de la historia) buscará que el imperio Gumball
+devuelva el Collar Protector, el objeto mágico más importante de su pueblo (llamado Candyland) y que la gente de su pueblo pueda descansar en paz.
+Para ello tendrá que vencer al Emperador Gumball y a sus secuaces superando
+diferentes tipos de obstáculos y amenazas en las que se apoyará de su bastón
+de caramelo que usará como herramienta para pegarse a paredes y como arma
+para defenderse de los enemigos
+
 Entrega:
 
     Documento con el informe completo.
