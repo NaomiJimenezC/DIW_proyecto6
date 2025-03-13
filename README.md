@@ -25,6 +25,16 @@ diferentes tipos de obstáculos y amenazas en las que se apoyará de su bastón
 de caramelo que usará como herramienta para pegarse a paredes y como arma
 para defenderse de los enemigos
 
+## Imágenes externas
+El resto de imágenes usadas han sido creadas por mi usando inkscape y son svg.
+| Fuente     | Licencia  | Formato original | Formato de salida | Software de edición |
+|------------|-----------|------------------|-------------------|---------------------|
+| SouthPark  | Copyright | png              | svg               | Inkscape            |
+| GoogleFont | OFL       | tff              | svg               | Inkscape            |
+| Pixabay    | Pixabay   | svg              | svg               | Inkscape            |
+| Pixabay    | Pixabay   | svg              | svg               | Inkscape            |
+
+
 Entrega:
 
     Documento con el informe completo.
