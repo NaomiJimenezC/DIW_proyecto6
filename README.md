@@ -31,8 +31,8 @@ El resto de imágenes usadas han sido creadas por mi usando inkscape y son svg.
 |------------|-----------|------------------|-------------------|---------------------|
 | SouthPark  | Copyright | png              | svg               | Inkscape            |
 | GoogleFont | OFL       | tff              | svg               | Inkscape            |
-| Pixabay    | Pixabay   | svg              | svg               | Inkscape            |
-| Pixabay    | Pixabay   | svg              | svg               | Inkscape            |
+| Pixabay    | CC0   | svg              | svg               | Inkscape            |
+| Pixabay    | CC0   | svg              | svg               | Inkscape            |
 
 
 Entrega:
