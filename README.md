@@ -33,7 +33,15 @@ El resto de imágenes usadas han sido creadas por mi usando inkscape y son svg.
 | GoogleFont | OFL       | tff              | svg               | Inkscape            |
 | Pixabay    | CC0   | svg              | svg               | Inkscape            |
 | Pixabay    | CC0   | svg              | svg               | Inkscape            |
+| Pixabay    | CC0   | svg              | svg               | --- |
 
+## Audio externo
+El resto de imágenes usadas han sido creadas por mi usando inkscape y son svg.
+| Fuente     | Licencia  | Formato original | Formato de salida | Software de edición |
+|------------|-----------|------------------|-------------------|---------------------|
+| Pixabay  | CCO | mp3              | mp3               | Capcut            |
+
+El traíler y único vídeo usado usó las imágenes propias y extenas y el audio externo. Se usó Capcut para crear el tráiler.
 
 Entrega:
 
