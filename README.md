@@ -1,5 +1,7 @@
 Fase 1: Proyecto Arte 2D
 
+verdant-lolly-9fcd05.netlify.app
+
 Desde el departamento gráfico se solicita elaborar una propuesta para un videojuego 2D. El proyecto se desarrollará de forma individual, siguiendo las siguientes directrices:
 
     Elegir una temática de videojuego con un mismo estilo artístico.
