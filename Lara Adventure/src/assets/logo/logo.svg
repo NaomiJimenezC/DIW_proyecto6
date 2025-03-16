@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="148mm"
+   viewBox="0 0 793.70081 559.37006"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="793.70081"
+       height="559.37006"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="321.23245"
+       y="267.52481"
+       width="193.55016"
+       height="37.494007"
+       id="rect22" />
+    <rect
+       x="320.21909"
+       y="232.05751"
+       width="161.62958"
+       height="44.080795"
+       id="rect21" />
+  </defs>
+  <g
+     id="layer1">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.51181;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 240.28597,67.750866 301.30834,194.54272 Z"
+       id="path2" />
+    <path
+       style="fill:#ffff4e;fill-opacity:1;stroke:#010101;stroke-width:0.755906;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 240.291,67.261212 c -10.05155,12.307084 -18.16862,32.573623 -23.50159,50.475708 -16.60729,-2.22486 -59.00903,2.62567 -54.48566,9.39151 -5.67248,3.71377 27.58836,26.49538 41.25325,35.89451 -9.64725,18.57811 -14.64097,50.01566 -8.10681,55.73434 26.9834,-1.66931 34.51679,-14.02073 46.1075,-25.84047 z"
+       id="path18" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.51181;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 283.39465,156.92396 c -41.91805,0 -41.91805,0 -41.91805,0"
+       id="path3" />
+    <text
+       xml:space="preserve"
+       id="text20"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Spicy Rice';-inkscape-font-specification:'Spicy Rice';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect21);fill:#ffff4e;fill-opacity:1;stroke:#010101;stroke-width:0.755906;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.6598433,0,0,1.7188957,-210.44312,-312.93469)"><tspan
+         x="320.21875"
+         y="259.75069"
+         id="tspan3">Lara's</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text21"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Spicy Rice';-inkscape-font-specification:'Spicy Rice';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect22);fill:#ffff4e;fill-opacity:1;stroke:#010101;stroke-width:0.755906;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.6169724,0,0,1.7195898,-198.33437,-317.43473)"><tspan
+         x="321.23242"
+         y="295.21944"
+         id="tspan4">dventure</tspan></text>
+  </g>
+</svg>
