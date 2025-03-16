@@ -1,0 +1,44 @@
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px; /* Tamaño base para rem */
+}
+
+body {
+    font-family: 'Roboto', Arial, sans-serif;
+    line-height: 1.6;
+    background: #faeeee;
+    color: #333;
+}
+
+.App {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    flex: 1;
+}
+
+/* Asegurarse de que no haya espacios en blanco */
+header, footer {
+    width: 100%;
+}
+
+/* Estilos para el header */
+.App-header {
+    background-color: #f6afca;
+    padding: 1rem;
+}
+
+/* Estilos para el footer */
+.App-footer {
+    background-color: #d51c5a;
+    padding: 1rem;
+}
